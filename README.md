@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NANANAIM
+- 👀 I’m interested in C++, Python and Java
+- 📫 How to reach me: fernandoch0101@gmail.com
