@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NANANAIM
 - 👀 I’m interested in C++, Python, HTML5, CSS and JavaScript
-- 📫 How to reach me: fernandoch0101@gmail.com
+- 📫 How to reach me: naimchelhotph@gmail.com
