@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=620&lines=Naim+Chelhot;Backend+Developer+%7C+Systems+Integration;Java+%C2%B7+PL%2FSQL+%C2%B7+TypeScript+%C2%B7+Python" alt="Typing intro" />
 
-**Computer Engineering @ UCAB · Software Development Intern @ Mercantil Seguros**
+**Computer Engineering @ UCAB · Software Development Intern**
 
 <a href="mailto:naimchelhotph@gmail.com"><img src="https://img.shields.io/badge/naimchelhotph@gmail.com-1A1B27?style=flat&logo=gmail&logoColor=EA4335" /></a>
 <a href="https://www.linkedin.com/in/naim-chelhot-99b072375/"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=flat&logo=linkedin&logoColor=0A66C2" /></a>
